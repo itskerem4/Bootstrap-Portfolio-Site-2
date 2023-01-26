@@ -1,0 +1,9 @@
+.icon-size{
+    font-size: 20px
+}
+.icon-size:hover{
+    font-size: 25px;
+}
+.card-size{
+    width: 21rem;
+}
